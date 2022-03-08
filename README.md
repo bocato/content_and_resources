@@ -10,7 +10,7 @@ Devpass (online)
 **Language:** 
 PT-BR
 
-** Links:**
+**Links:**
 - https://www.linkedin.com/events/inje-odedepend-nciacomswift-edu6905548694402535424/about/
 - https://meet.google.com/qkg-qdeg-vfw
 
