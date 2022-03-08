@@ -15,4 +15,5 @@ PT-BR
 - https://meet.google.com/qkg-qdeg-vfw
 
 ### Resources
-- 
+- [Playground](https://github.com/bocato/talks/tree/main/2022-03-10_dependency_injection_with_swift/DIPlayground.playground)
+- [Presentation](https://github.com/bocato/talks/blob/main/2022-03-10_dependency_injection_with_swift/dependency_injection_ptBR.pdf)
